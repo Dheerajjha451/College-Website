@@ -26,11 +26,12 @@ nav img{
     text-align: right;
 }
 .nav-links ul li{
-    background-color: #ecdfde;
+    background-color: #f3f165;
     list-style: none;
     display: inline-block;
     padding: 8px 12px;
     position: relative;
+    border-radius: 20px;
 }
 
 .nav-links ul li a{
@@ -43,7 +44,7 @@ nav img{
     content: '';
     width: 0%;
     height: 2px;
-    background: #d71608;
+    background: #fc9f69;
     display: block;
     margin: auto;
 }
@@ -67,7 +68,7 @@ nav img{
 .hero-btn{
     display: inline-block;
     text-decoration: none;
-    color: rgb(83, 4, 209);
+    color: rgb(226, 243, 70);
     border: 1px solid rgb(11, 19, 128);
     padding: 12px 34px;
     font-size: 13px;
